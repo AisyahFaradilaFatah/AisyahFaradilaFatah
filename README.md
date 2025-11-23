@@ -1,42 +1,39 @@
-# Aplikasi Lampu Otomatis
-## _Aplikasi Lampu Otomatis ini merupakan aplikasi yang dapat menyalakan, mematikan, dan mengubah warna lampu melalui smartphone_
+## Welcome
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ejournal.unuja.ac.id/index.php/hitech/article/view/4996/pdf)
+I’m **Aisyah Faradila Fatah**, a mechatronics and AI student with a strong interest in **Data**, and **AI**.  
+My work focuses on practical system development, hardware–software integration, and data-driven experimentation.
 
-Abstrak
-Aplikasi ini dirancang untuk sistem kendali lampu otomatis berbasis IoT. Lampu ini nantinya bisa digunakan di dalam rumah pribadi, perkantoran, maupun di tempat umum, seperti taman. Aplikasi ini bertujuan untuk mengatur lampu dari jarak jauh yang nantinya juga akan mengembangkan dunia IoT. Pengguna hanya memerlukan smartphone yang terkoneksi dengan internet untuk menyalakan, mematikan, serta mengubah warna lampu.
+---
 
-## Fitur Aplikasi Lampu Otomatis
+## Focus Areas
+- Machine learning fundamentals and experimental workflows  
+- Data preprocessing, visualization, and model evaluation  
+- IoT–AI integration for intelligent sensing systems  
+- Embedded development for AI-enabled prototypes  
+- Practical automation and system modeling
 
-- Menyalakan lampu jarak jauh
-- Mematikan lampu jarak jauh
-- Mengubah warna lampu jarak jauh
-- Alarm jadwal
+---
 
-Jarak jauh adalah ruang sela yang panjang antara dua tempat dan sebagainya
-Seperti yang dipaparkan oleh [KBBI](https://kbbi.kemdikbud.go.id/) di web [Kata Data.](https://kbbi.kata.web.id/jarak-jauh/)
+## Current Work
+- Developing small-scale ML pipelines for academic research  
+- Analyzing sensor data for signal-based ML tasks  
+- Integrating IoT devices with cloud-based data processing  
+- Strengthening foundations in AI for real-world applications
 
-> Tujuan Pembuatan Aplikasi Lampu Otomatis
-> Memudahkan pengguna agar selalu
-> Mengingatkan pengguna agar selalu menyalakan dan memadamkan lampu sesuai jadwal
-> Menghemat listrik
-> Efisien dan efektif
-> Mudah digunakan
+---
 
-## Teknologi
+## Tools & Skills
+- **Languages**: Python, C/C++
+- **ML Stack**: NumPy, Pandas, Scikit-Learn  
+- **Platforms**: Google Colab, VSCode, NetBeans
+- **Domains**: Embedded systems, data analysis, AI prototyping  
 
-Aplikasi lampu otomatis menggunakan proyek sumber terbuka agar berfungsi dengan baik:
+---
 
-- [Arduino IDE](https://www.arduino.cc/en/software)- tempat pembuatan program yang dihubungkan dengan Nodemcu ESP8266
--  [Blynk 2.0](https://blynk.io/)- aplikasi untuk menjalankan program
+## Outlook
+I aim to build a portfolio that reflects a balanced understanding of mechatronics and AI, with a long-term goal of specializing in intelligent systems that merge hardware capability with machine learning insight.
 
-Tentunya Aplikasi Lampu otomatis bersifat open source dengan [public resitory](https://github.com/AisyahFaradilaFatah?tab=repositories)
- di GitHub.
+---
 
-## License
-
-Aisyah Faradila Fatah
-2308292
-Transistor
-
-**METASTRO MKB 2023**
+## Contact
+Feel free to explore my repositories or reach out for collaboration or discussion.  
